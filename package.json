@@ -1,0 +1,32 @@
+{
+  "name": "riithink-devtest",
+  "version": "1.0.0",
+  "description": "Developer test for RiiThink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardse08/riithink-devtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardse08/riithink-devtest/issues"
+  },
+  "homepage": "https://github.com/richardse08/riithink-devtest#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.15.4",
+    "mongo": "^0.1.0",
+    "mongod": "^2.0.0",
+    "mongodb": "^2.2.35",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  },
+  "engines": {
+    "node": ">=7.6.0"
+  }
+}
